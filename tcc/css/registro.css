@@ -1,0 +1,7 @@
+body{
+    background: linear-gradient(50deg,rgb(11, 119, 190));
+}
+.form-container{
+    max-width: 300px;
+    padding: 1rem;
+}
